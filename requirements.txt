@@ -1,0 +1,5 @@
+numpy
+panda
+pandas
+requests
+csv
