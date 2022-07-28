@@ -47,5 +47,5 @@ for items in df_id.values:
     regNumber = listtostring(media_match['regNumber'])
     print(regNumber)
     print('-------------------------------')
-    writetocsv(items)
+#     writetocsv(items)
 
